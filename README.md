@@ -1,4 +1,4 @@
-# rustdesk-display-cli
+# rustdesk-display-helper
 
 Windows helper app for switching display profiles when starting/stopping a RustDesk session.
 
