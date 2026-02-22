@@ -1,0 +1,10 @@
+/target
+Cargo.lock
+/config/local.toml
+/tools/*.exe
+/dist
+/_tmp_screenres_vendor
+/flatpak-build
+/flatpak-repo
+/flatpak/.flatpak-builder
+/flatpak/dist/rustdesk-display-app
